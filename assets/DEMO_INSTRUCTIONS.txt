@@ -1,0 +1,5 @@
+For the final Google Form:
+- Use assets/demo_preview.png only as a concept/preview image if you have not yet run the app.
+- Prefer taking a real screenshot after running Streamlit.
+- Do not claim that a screenshot is a live deployment if it is only a local prototype.
+- Do not claim measured impact or model accuracy unless you actually evaluate it.

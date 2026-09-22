@@ -1,0 +1,100 @@
+[
+  {
+    "category": "organic / wet waste",
+    "title": "Organic waste",
+    "guidance": "Food scraps and other biodegradable kitchen waste should generally be kept separate from dry recyclables. Where a wet-waste or composting stream exists, use that stream according to local rules.",
+    "keywords": [
+      "food",
+      "vegetable",
+      "fruit",
+      "kitchen",
+      "compost",
+      "biodegradable"
+    ]
+  },
+  {
+    "category": "paper or cardboard",
+    "title": "Paper and cardboard",
+    "guidance": "Keep paper and cardboard clean and dry for recycling where accepted. Remove obvious food contamination and flatten large cardboard pieces.",
+    "keywords": [
+      "paper",
+      "cardboard",
+      "box",
+      "newspaper",
+      "book",
+      "carton"
+    ]
+  },
+  {
+    "category": "plastic",
+    "title": "Plastic packaging",
+    "guidance": "Check whether the local dry-waste system accepts the specific plastic. Empty containers and keep recyclable material as clean as practical. Avoid assuming every plastic item is recyclable.",
+    "keywords": [
+      "bottle",
+      "wrapper",
+      "container",
+      "packaging",
+      "plastic"
+    ]
+  },
+  {
+    "category": "glass",
+    "title": "Glass items",
+    "guidance": "Use a designated glass/recycling stream where available. Broken glass requires careful handling and may have special collection instructions.",
+    "keywords": [
+      "jar",
+      "bottle",
+      "glass",
+      "broken"
+    ]
+  },
+  {
+    "category": "metal",
+    "title": "Metal containers",
+    "guidance": "Metal cans and similar recyclable containers can generally enter a dry/recycling stream where accepted. Empty containers before disposal.",
+    "keywords": [
+      "can",
+      "tin",
+      "aluminium",
+      "steel",
+      "metal"
+    ]
+  },
+  {
+    "category": "e-waste",
+    "title": "Electronic waste",
+    "guidance": "Phones, chargers, computers and other electronic equipment should be taken to an authorized e-waste collection or recycling channel rather than ordinary household bins.",
+    "keywords": [
+      "phone",
+      "computer",
+      "charger",
+      "keyboard",
+      "electronics",
+      "e-waste"
+    ]
+  },
+  {
+    "category": "battery",
+    "title": "Batteries",
+    "guidance": "Batteries should not be mixed with ordinary household waste. Use an appropriate battery or e-waste collection point and follow local safety instructions.",
+    "keywords": [
+      "battery",
+      "cell",
+      "lithium",
+      "power bank"
+    ]
+  },
+  {
+    "category": "hazardous / medical waste",
+    "title": "Hazardous and medical waste",
+    "guidance": "Sharps, medical materials, chemicals and other hazardous items require dedicated handling. Do not mix them with ordinary household waste; follow authorized collection instructions.",
+    "keywords": [
+      "medical",
+      "syringe",
+      "chemical",
+      "medicine",
+      "hazardous",
+      "sharp"
+    ]
+  }
+]
